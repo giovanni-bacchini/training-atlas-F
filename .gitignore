@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+.DS_Store
+
+# Output di prova delle Monte Carlo (output_dir_name = 'prova'): si sovrascrive a ogni lancio.
+**/montecarlo_output/prova/
+
+# Figure salvate per riaprirle (tools/others/pickle_opener.py): pesano molto e si rigenerano
+*.pickle

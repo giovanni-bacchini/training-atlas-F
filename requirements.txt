@@ -1,0 +1,7 @@
+rocketpy[all]
+numpy
+pandas
+scipy
+matplotlib
+imageio
+dill
