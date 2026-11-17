@@ -9,10 +9,9 @@ Questa repo è una copia della cartella `Atlas/` della repo del team (`RocketPyS
 4. Le guide passo passo: [docs/guida_openrocket.md](docs/guida_openrocket.md) e [docs/guida_simulazioni.md](docs/guida_simulazioni.md).
 
 **Differenze dalla repo vera**
-- Qui la radice della repo è la cartella `Atlas/`: dove la documentazione scrive `python Atlas/montecarlo.py`, qui il comando è `python montecarlo.py`.
-- Ognuno lavora sulla sua branch, non su `main`.
+- Qui la radice della repo è la cartella `Atlas/`. Dove la documentazione dice `python Atlas/montecarlo.py`, qui vale `python montecarlo.py`.
 - In più ci sono `COMPITO.md`, le guide del training in `docs/`, la cartella `temp/` con i file da sistemare e la cartella `consegne/`.
-- `simulation_output/` è vuota: la riempi tu.
+- `simulation_output/` è vuota e la riempi tu.
 
 ## Installazione
 Servono Python 3.11 o più recente, Git, un editor (consigliato VS Code) e [OpenRocket](https://openrocket.info) 24.12. Dalla cartella della repo:
